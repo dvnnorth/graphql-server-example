@@ -1,0 +1,19 @@
+{
+  "name": "graphql-server-example",
+  "version": "1.0.0",
+  "description": "A server example built from Apollo's \"Getting Started\" section in their docs. (https://www.apollographql.com/docs/apollo-server/getting-started)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvnnorth/graphql-server-example.git"
+  },
+  "author": "dvnnorth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvnnorth/graphql-server-example/issues"
+  },
+  "homepage": "https://github.com/dvnnorth/graphql-server-example#readme"
+}
