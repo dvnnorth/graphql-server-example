@@ -1,6 +1,12 @@
   # Comments in GraphQL are defined with the hash (#) symbol.
 
   # This "Book" type can be used in other type declarations.
+  """
+  # Book type
+  
+  Testing GraphQL markdown documentation. The **Book** type defines 
+  books in our schema. Books can have *title's* and *author's*.
+  """
   type Book {
     title: String
     author: String
